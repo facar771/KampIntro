@@ -13,7 +13,7 @@ namespace OOP3
 
         public void Hesapla()
         {
-            Console.WriteLine("gfdsfg");
+            Console.WriteLine("İhtiyaç Kredisi");
         }
     }
 }

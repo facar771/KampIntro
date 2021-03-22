@@ -13,7 +13,7 @@ namespace OOP3
 
         public void Hesapla()
         {
-            Console.WriteLine("sadfasgfdsfg");
+            Console.WriteLine("Taksit");
         }
     }
 }
